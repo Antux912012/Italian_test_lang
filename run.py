@@ -31,7 +31,7 @@ from Src.Utilities.config import setup_logging
 level = config.LEVEL
 logger = setup_logging(level)
 from Src.Utilities.loadenv import load_env
-env_vars = load_env()
+# env_vars = load_env()
 
 #Configure Env Vars
 Global_Proxy = config.Global_Proxy
