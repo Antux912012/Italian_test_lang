@@ -66,7 +66,6 @@
           }
    },
    "General":{
-       "_comment":"load_env": "0",
        "HOST": "0.0.0.0",
        "PORT": 8080,
        "Name": "MammaMia",
